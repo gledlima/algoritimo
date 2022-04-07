@@ -4,3 +4,34 @@ Algorimos computacionais são rotinas executados por algum processador, ou algum
 Todo algoritimo tem como base a lógica de programação que parte da sua cabeça.
 
 Vamos usar Portugol para aprender programação.
+
+Variaveis são espaços vazios na memória do seu computador. Podemos ter diferentes tipos de brinquedo, calçados, ou seja, uma variavel com deferentes tipos.
+
+IDENTIFICADORES: Regras.
+
+1 - Deve começar com uma letra.
+2 - Os próximos podem ser letras ou números.
+3 - Não pode utilizar nenhum símbolo, exceto "_"
+4 - Não pode conter espeços em branco.
+5 - Não pode conter letras com acentos
+6 - Não pode ser uma palavra reservada
+
+TIPOS PRIMITIVOS: Regras
+
+1 - Inteiro: "1" - "3" - "-5" - "0"
+2 - Real
+3 - Caractere
+4 - Logico
+
+ATRIBUIÇÃO: Conceito de atribuir informações a uma variavel.
+
+Exemplo #01:
+-------------------------------
+mensagem: caractere
+mensagem <- "aprendendo!"
+Escreval(msg)
+
+nome: caractere
+nome <- "Gledson"
+Escreval(nome)
+-------------------------------
