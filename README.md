@@ -1,4 +1,4 @@
-# algoritimo
+# Algoritimo
 Conjunto de passos para resolver um problema!
 
 Dentro desse repositório você verá tudo que eu aprendi sobre Algoritimo e seus conceitos.
